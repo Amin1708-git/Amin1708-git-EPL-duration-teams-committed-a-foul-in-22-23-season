@@ -3,3 +3,5 @@ this is a project which i calculated the frequency or the duration that EPL team
 my findings were surprising and different from what normal total fouls stats tells us
 if you wanna know more about this and how i calculated visit my medium page where i wrote about sports and data science
 @aminanalysis
+or follow this direct link
+https://medium.com/@aminanalysis/numbers-analysis-why-elite-football-teams-commit-the-most-fouls-cac13e6726aa
